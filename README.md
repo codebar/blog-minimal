@@ -1,4 +1,3 @@
-# Codebar's blog
 
 ## Running this on your local environment
 
